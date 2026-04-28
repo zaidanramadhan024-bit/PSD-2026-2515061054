@@ -225,4 +225,4 @@ Program kemudian menampilkan data umur sebelum dilakukan proses pengurutan. Sete
 
 Sesudah proses sorting selesai, program menampilkan hasil akhir berupa daftar umur yang sudah tersusun rapi dari yang paling tua hingga yang paling muda. Hasil tersebut menunjukkan bahwa proses pengurutan menggunakan algoritma Bubble Sort berhasil dijalankan dengan baik.
 
-Link Youtube : https://www.youtube.com/watch?v=1GeaSn6H8tU
+Link Youtube : https://youtu.be/PfM1Myv7ix4
