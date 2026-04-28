@@ -220,8 +220,9 @@ Menjalankan fungsi main() agar program dapat diproses.
 
 Saat program mulai dijalankan, pengguna terlebih dahulu diminta memasukkan jumlah orang yang akan diinput ke dalam program. Setelah itu, pengguna memasukkan data umur satu per satu sesuai jumlah yang telah ditentukan.
 
-Link Youtube : https://www.youtube.com/watch?v=1GeaSn6H8tU
 
 Program kemudian menampilkan data umur sebelum dilakukan proses pengurutan. Setelah itu, algoritma Bubble Sort dijalankan untuk mengurutkan data umur secara descending, yaitu dari umur terbesar menuju umur terkecil.
 
 Sesudah proses sorting selesai, program menampilkan hasil akhir berupa daftar umur yang sudah tersusun rapi dari yang paling tua hingga yang paling muda. Hasil tersebut menunjukkan bahwa proses pengurutan menggunakan algoritma Bubble Sort berhasil dijalankan dengan baik.
+
+Link Youtube : https://www.youtube.com/watch?v=1GeaSn6H8tU
