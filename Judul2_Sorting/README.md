@@ -11,8 +11,53 @@ Metode yang digunakan adalah **Bubble Sort**, yaitu metode pengurutan yang dilak
 Struktur data yang dipakai dalam program ini adalah **List (Array 1 Dimensi)** karena seluruh data umur disimpan dalam satu kumpulan data yang sama dan diproses secara berurutan.
 
 ## Source Code dan Penjelasan
-<img width="2187" height="1304" alt="Screenshot 2026-04-28 125550" src="https://github.com/user-attachments/assets/cb4d773b-7306-4921-86dd-52f07400a1ef" />
-<img width="2154" height="435" alt="Screenshot 2026-04-28 125617" src="https://github.com/user-attachments/assets/995e6319-7c10-4ad8-8b0a-b39dc640c17c" />
+
+```python
+def tukar(arr, i, j):
+    temp = arr[i]
+    arr[i] = arr[j]
+    arr[j] = temp
+
+
+def bubble_sort(arr, n):
+    for i in range(n - 1):
+        for j in range(n - i - 1):
+            if arr[j + 1] > arr[j]:
+                tukar(arr, j, j + 1)
+
+
+def main():
+    try:
+        banyak_orang = int(input("Masukkan jumlah orang: "))
+    except ValueError:
+        print("Input tidak valid!")
+        return
+
+    umur = []
+    print("Masukkan umur setiap orang:")
+
+    for i in range(banyak_orang):
+        while True:
+            try:
+                u = int(input(f"Umur orang ke-{i+1}: "))
+                umur.append(u)
+                break
+            except ValueError:
+                print("Harus angka ya!")
+
+    print("Umur sebelum diurutkan:", umur)
+
+    bubble_sort(umur, banyak_orang)
+
+    print("Umur setelah diurutkan:", end=" ")
+    for i in range(banyak_orang):
+        print(umur[i], end=" ")
+    print()
+
+
+if __name__ == "__main__":
+    main()
+```
 
 ### 1. Fungsi Tukar
 
