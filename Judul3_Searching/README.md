@@ -8,7 +8,6 @@ Dengan adanya program ini, pengguna dapat mengetahui jumlah kemunculan suatu dat
 
 Struktur data yang digunakan adalah List (Array 1 Dimensi) karena data buah disimpan dalam satu kumpulan data yang sama.
 
----
 
 ## Source Code dan Penjelasan
 
