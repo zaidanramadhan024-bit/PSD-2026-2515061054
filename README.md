@@ -2,11 +2,11 @@
 Implementasi Algoritma Sequential Search pada Pencarian Data Buah
 
 ## Deskripsi Singkat
-Program ini dibuat untuk mencari jumlah kemunculan suatu buah dalam sebuah daftar menggunakan algoritma **Sequential Search**. Pengguna diminta memasukkan nama buah yang ingin dicari, kemudian program akan menghitung berapa kali buah tersebut muncul di dalam data.
+Program ini dibuat untuk mencari jumlah kemunculan suatu buah dalam sebuah daftar menggunakan algoritma Sequential Search. Pengguna diminta memasukkan nama buah yang ingin dicari, kemudian program akan menghitung berapa kali buah tersebut muncul di dalam data.
 
-Dengan adanya program ini, pengguna dapat mengetahui jumlah kemunculan suatu data secara sederhana. Metode yang digunakan adalah **Sequential Search**, yaitu metode pencarian yang dilakukan dengan cara memeriksa data satu per satu dari awal hingga akhir.
+Dengan adanya program ini, pengguna dapat mengetahui jumlah kemunculan suatu data secara sederhana. Metode yang digunakan adalah Sequential Search, yaitu metode pencarian yang dilakukan dengan cara memeriksa data satu per satu dari awal hingga akhir.
 
-Struktur data yang digunakan adalah **List (Array 1 Dimensi)** karena data buah disimpan dalam satu kumpulan data yang sama.
+Struktur data yang digunakan adalah List (Array 1 Dimensi) karena data buah disimpan dalam satu kumpulan data yang sama.
 
 ---
 
@@ -153,3 +153,15 @@ if __name__ == "__main__":
 ```
 
 Digunakan untuk menjalankan program utama.
+
+### Output Program
+
+<img width="1660" height="413" alt="Screenshot 2026-05-05 130819" src="https://github.com/user-attachments/assets/ff7023f4-eeca-41b0-ae11-136ee88f4d86" />
+
+### Penjelasan Output Program
+
+Saat program dijalankan, daftar buah akan ditampilkan terlebih dahulu. Pengguna kemudian diminta memasukkan nama buah yang ingin dicari. Program akan melakukan pencarian menggunakan metode Sequential Search dengan cara memeriksa setiap data satu per satu.
+
+Jika buah ditemukan, program akan menampilkan jumlah kemunculannya. Jika tidak ditemukan, program akan menampilkan pesan bahwa buah tersebut tidak ada dalam data. Hal ini menunjukkan bahwa algoritma Sequential Search bekerja dengan cara sederhana namun efektif untuk mencari data dalam sebuah list.
+
+Link Youtube :
