@@ -163,4 +163,4 @@ Saat program dijalankan, daftar buah akan ditampilkan terlebih dahulu. Pengguna 
 
 Jika buah ditemukan, program akan menampilkan jumlah kemunculannya. Jika tidak ditemukan, program akan menampilkan pesan bahwa buah tersebut tidak ada dalam data. Hal ini menunjukkan bahwa algoritma Sequential Search bekerja dengan cara sederhana namun efektif untuk mencari data dalam sebuah list.
 
-Link Youtube :
+Link Youtube : https://youtu.be/yPMa6jPsqk8
