@@ -1,4 +1,3 @@
-# fungsi sequential search untuk menghitung jumlah kemunculan buah
 def sequential_search(data, n, target):
     i = 0
     counter = 0
