@@ -10,7 +10,7 @@ Konsep yang digunakan pada program ini adalah Stack (LIFO / Last In First Out), 
 
 Struktur data yang digunakan adalah Array 1 Dimensi, karena seluruh data username disimpan dalam satu list dengan kapasitas tertentu.
 
-###Source Code dan Penjelasan
+### Source Code dan Penjelasan
 
 
 ### 1. Class StackArray
@@ -261,6 +261,9 @@ if __name__ == "__main__":
 ```
 ### Output Program
 
+<img width="2130" height="1394" alt="Screenshot 2026-05-11 214940" src="https://github.com/user-attachments/assets/8d3fdb04-44f7-4e33-b060-b5d5f5caeec6" />
+
+<img width="2134" height="668" alt="Screenshot 2026-05-11 215003" src="https://github.com/user-attachments/assets/7e905310-df8a-492e-9570-998a41f33e57" />
 
 
 
