@@ -270,3 +270,5 @@ if __name__ == "__main__":
 Saat program dijalankan, pengguna akan melihat menu utama yang berisi beberapa pilihan. Pengguna dapat menambahkan user login, logout user terakhir, melihat user terakhir yang login, dan menampilkan seluruh riwayat login.
 
 Ketika user login, data username akan dimasukkan ke dalam stack menggunakan metode push(). Jika user logout, maka user terakhir yang login akan keluar terlebih dahulu menggunakan metode pop(). Hal ini menunjukkan bahwa struktur data stack bekerja dengan konsep LIFO (Last In First Out), yaitu data terakhir masuk akan menjadi data pertama yang keluar.
+
+Link Youtube : https://youtu.be/Qcf3rmvLYPE
