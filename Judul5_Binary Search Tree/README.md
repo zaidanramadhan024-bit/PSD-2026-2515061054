@@ -420,7 +420,11 @@ if __name__ == "__main__":
     main()
 ```
 ### Output Program
-Contoh Output
+
+<img width="2880" height="1342" alt="Screenshot 2026-05-20 200514" src="https://github.com/user-attachments/assets/cbaff3ae-db79-4ec9-978b-0520801780d1" />
+<img width="2880" height="1552" alt="Screenshot 2026-05-20 200525" src="https://github.com/user-attachments/assets/8012f8bc-5bfe-46a2-b1ee-0e4634e393a0" />
+<img width="2880" height="404" alt="Screenshot 2026-05-20 200533" src="https://github.com/user-attachments/assets/f406fa97-ad94-464a-9c9d-1406a7a5480b" />
+
 
 ### Penjelasan Output Program
 
@@ -429,3 +433,5 @@ Saat program dijalankan, pengguna akan melihat menu pengolahan data umur pendudu
 Ketika pengguna menambahkan data, umur penduduk akan disimpan ke dalam Binary Search Tree sesuai aturan BST. Jika pengguna mencari successor, program akan menampilkan umur terdekat yang lebih besar dari nilai yang dicari. Sedangkan predecessor digunakan untuk mencari umur terdekat yang lebih kecil.
 
 Program ini menunjukkan bahwa struktur data Binary Search Tree dapat digunakan untuk mengelola data umur penduduk secara terurut sehingga proses pencarian dan penghapusan data menjadi lebih efisien.
+
+Link Youtube : https://youtu.be/qsqep7LMino
