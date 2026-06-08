@@ -468,3 +468,5 @@ Pada menu Cari Mata Kuliah, pengguna diminta memasukkan kode mata kuliah. Progra
 Pada menu Tampilkan Semua Data, program akan menampilkan seluruh isi HashMap beserta Linked List yang terbentuk akibat collision. Tampilan ini menunjukkan bagaimana metode Separate Chaining bekerja dalam menyimpan beberapa data pada indeks yang sama.
 
 Program akan terus berjalan sampai pengguna memilih menu **Keluar**, sehingga pengguna dapat melakukan pencarian maupun melihat data berkali-kali tanpa perlu menjalankan ulang program.
+
+Link Youtube : https://youtu.be/Uq7mtyCDalg
